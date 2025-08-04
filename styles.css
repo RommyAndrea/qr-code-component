@@ -24,8 +24,9 @@ body {
     flex-direction: column;
     text-align: center;
     gap: 1.5rem;
-    width: 320px;
-    padding: 16px 16px 40px 16px;
+    min-width: 320px;
+    width: 100%;
+    /*padding: 16px 16px 40px 16px;*/
     border-radius: 1.25rem;
     box-shadow: 0 4px 4px 0 hsla(0, 0%, 0%, 0.12);
 }
