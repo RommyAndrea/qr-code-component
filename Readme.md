@@ -5,7 +5,7 @@ This challenge helped me practice HTML & CSS fundamentals by building a simple, 
 
 ## 📸 Screenshot
 
-![QR Code Component Screenshot](images/qr-code-component-screenshot.png)
+![QR Code Component Screenshot](images/qr-code-component-screenshot.jpeg)
 
 ## 🔗 Live site
 
