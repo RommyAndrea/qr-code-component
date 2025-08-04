@@ -13,10 +13,6 @@ body {
     flex-direction: column;
     min-height: 100vh;
     gap: 3.125rem;
-<<<<<<< HEAD
-=======
-    padding-bottom: 2.5rem;
->>>>>>> cef9a17e7e04065a28316b67f96991b870048570
 }
 
 .container {
@@ -27,19 +23,11 @@ body {
     flex-direction: column;
     text-align: center;
     gap: 1.5rem;
-<<<<<<< HEAD
     max-width: 320px;
     width: 100%;
     padding: 1rem;
     border-radius: 1.25rem;
     box-shadow: 0 1.5rem 1.5rem 0 hsla(0, 0%, 0%, 0.12);
-=======
-    max-width: 375px;
-    width: 100%;
-    padding-bottom: 1rem;
-    border-radius: 1.25rem;
-    box-shadow: 0 4px 4px 0 hsla(0, 0%, 0%, 0.12);
->>>>>>> cef9a17e7e04065a28316b67f96991b870048570
 }
 
 .container img {
@@ -75,10 +63,6 @@ body {
 .attribution {
     font-size: 0.9375rem;
     text-align: center;
-<<<<<<< HEAD
-=======
-    margin-top: 2rem;
->>>>>>> cef9a17e7e04065a28316b67f96991b870048570
 }
 
 .attribution a {
