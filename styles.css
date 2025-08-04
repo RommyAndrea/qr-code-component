@@ -27,7 +27,7 @@ body {
     width: 100%;
     padding: 1rem;
     border-radius: 1.25rem;
-    box-shadow: 0 1.5rem 1.5rem 0 hsla(0, 0%, 0%, 0.12);
+    box-shadow: 0 1.25rem 1.25rem 0 hsla(0, 0%, 0%, 0.12);
 }
 
 .container img {
@@ -43,6 +43,9 @@ body {
     flex-direction: column;
     text-align: center;
     gap: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin-bottom: 1.5rem;
 }
 
 .text h1 {
@@ -55,9 +58,6 @@ body {
     font-size: 0.9375rem;
     font-weight: 400;
     color: hsl(216, 15%, 48%);
-    padding-bottom: 1.5rem;
-    padding-left: 1rem;
-    padding-right: 1rem;
 }
 
 .attribution {
