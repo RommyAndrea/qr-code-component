@@ -26,7 +26,7 @@ body {
     gap: 1.5rem;
     max-width: 375px;
     width: 100%;
-    /*padding: 16px 16px 40px 16px;*/
+    padding: 1rem;
     border-radius: 1.25rem;
     box-shadow: 0 4px 4px 0 hsla(0, 0%, 0%, 0.12);
 }
